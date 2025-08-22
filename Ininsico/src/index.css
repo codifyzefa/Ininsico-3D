@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Virgo Delight';
+  src: url('./fonts/VirgoDelight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.virgo-text {
+  font-family: 'Virgo Delight', cursive;
+}
